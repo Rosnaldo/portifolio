@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, MutableRefObject } from "react"
 import { ThemeProvider, createTheme, ThemeOptions } from "@mui/material/styles"
-import { grey, blue } from "@mui/material/colors"
+import { grey } from "@mui/material/colors"
 import CssBaseline from "@mui/material/CssBaseline"
 import Grid from "@mui/material/Grid"
 import Box from "@mui/material/Box"
